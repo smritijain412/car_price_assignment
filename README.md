@@ -3,16 +3,16 @@
  
  In this  assesment i need to draw some graphs which gives the information of dataset.
  
- ## A.priceUSD vs mileage(kilometers)
+ ### A.priceUSD vs mileage(kilometers)
  ![price vs image](https://user-images.githubusercontent.com/61602017/99527133-4ef4ea80-29c2-11eb-8441-933417c38ecf.png)
  
- ## B.Groupby graph year,transmission vs price 
+ ### B.Groupby graph year,transmission vs price 
 ![year vs transmission](https://user-images.githubusercontent.com/61602017/99527229-7946a800-29c2-11eb-9715-5c6290dc1586.png)
 
-## C.Plot a graph between make vs number of cars, here we can see which make or brand is highest value 
+### C.Plot a graph between make vs number of cars, here we can see which make or brand is highest value 
 ![graph1 make vs count](https://user-images.githubusercontent.com/61602017/99527408-c75bab80-29c2-11eb-89c2-776ab571a70f.png)
 
-On the basis of survey and study,I opt for some features and check the correlation between priceUSD and others.After the correlation method,delete some features and save in a new dataframe.
+> On the basis of survey and study,I opt for some features and check the correlation between priceUSD and others.After the correlation method,delete some features and save in a     new dataframe.
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/61602017/99539479-4c9b8c00-29d4-11eb-922d-56f4381689e4.png)
 
