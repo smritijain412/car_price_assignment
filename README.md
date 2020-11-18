@@ -14,11 +14,13 @@
 
 On the basis of survey and study,I opt for some features and check the correlation between priceUSD and others.After the correlation method,delete some features and save in a new dataframe.
 
+![Screenshot (23)](https://user-images.githubusercontent.com/61602017/99539479-4c9b8c00-29d4-11eb-922d-56f4381689e4.png)
 
 Split data set into train and test dataframe. And apply chisquare test which gives you chi value and p values.
 
 After splitting the dataset i used linearregression,lasso,logistic and extra tree regressor method. And they give different scores.
 
+![Screenshot (24)](https://user-images.githubusercontent.com/61602017/99539553-61781f80-29d4-11eb-9e20-41bc88000fa5.png)
 
 
 
