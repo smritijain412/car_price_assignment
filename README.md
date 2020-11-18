@@ -31,3 +31,5 @@ https://hub.docker.com/repository/docker/smriti0412/car_price
 #step1: docker pull smriti0412/car_price:latest
 
 #step2: docker run -p 8888:8888 smriti0412/car_price:latest
+
+After this copy link and paste in browser,you can access the jupyter notebook in your browser.
