@@ -22,6 +22,12 @@ After splitting the dataset i used linearregression,lasso,logistic and extra tre
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/61602017/99539553-61781f80-29d4-11eb-9e20-41bc88000fa5.png)
 
+#pull docker image to access the work 
 
+https://hub.docker.com/repository/docker/smriti0412/car_price
 
+> steps to pull and run docker image.>
 
+#step1: docker pull smriti0412/car_price:latest
+
+#step2: docker run -p 8888:8888 smriti0412/car_price:latest
